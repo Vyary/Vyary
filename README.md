@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vyary
 - 👀 I’m interested in Computers, programing and gaming.
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: email me at vyaryw@gmai.com
+- 📫 How to reach me: email me at vyaryw@gmail.com
 
 <!---
 Vyary/Vyary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
