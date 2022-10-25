@@ -1,11 +1,11 @@
 <p align="center">
-  - 👋 Hi, I’m @Vyary
+  - 👋 Hi, I’m Vyary
   <br>
   - 👀 I’m interested in computers, programing and gaming.
   <br>
   - 🌱 I’m currently learning Python
   <br>
-  - 📫 How to reach me: email me at vyaryw@gmail.com
+  - 📫 How to reach me: Email me at vyaryw@gmail.com
 </p>
 
 <h2 align="center">Stats</h2>
