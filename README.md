@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vyary
-- 👀 I’m interested in Computers, programing and gaming.
+- 👀 I’m interested in computers, programing and gaming.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: email me at vyaryw@gmail.com
 
