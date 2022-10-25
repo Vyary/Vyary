@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: email me at vyaryw@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vyary&theme=dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vyary&show_icons=true&theme=dark)
-
 <h2 align="center">Stats</h2>
 <p align=center>
   <div align=center>
