@@ -1,7 +1,10 @@
 <p align="center">
   - 👋 Hi, I’m @Vyary
+  <br>
   - 👀 I’m interested in computers, programing and gaming.
+  <br>
   - 🌱 I’m currently learning Python
+  <br>
   - 📫 How to reach me: email me at vyaryw@gmail.com
 </p>
 
