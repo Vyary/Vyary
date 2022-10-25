@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Vyary
-- 👀 I’m interested in computers, programing and gaming.
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: email me at vyaryw@gmail.com
+<p align="center">
+  - 👋 Hi, I’m @Vyary
+  - 👀 I’m interested in computers, programing and gaming.
+  - 🌱 I’m currently learning Python
+  - 📫 How to reach me: email me at vyaryw@gmail.com
+</p>
 
 <h2 align="center">Stats</h2>
 <p align=center>
