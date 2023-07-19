@@ -2,6 +2,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/Lua-white?logo=Lua&logoColor=2C2D72&style=for-the-badge)
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
