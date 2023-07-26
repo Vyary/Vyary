@@ -8,6 +8,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Windows-0078D4?logo=Windows&logoColor=white&style=for-the-badge)
+
 
 <h2 align="center">Stats</h2>
 <p align=center>
