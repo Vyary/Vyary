@@ -11,6 +11,8 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Tempo](https://img.shields.io/badge/tempo-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/loki-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
 # 📊 GitHub Stats:
 <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Vyary&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
 <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=Vyary&theme=dark&hide_border=true" />
